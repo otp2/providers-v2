@@ -1,0 +1,10 @@
+Aetna
+Carelon/Beacon
+Medicaid
+No Aetna
+No Beacon
+No Cigna (Endeavor Employee Plan is Okay)
+No Compsych
+No Medicaid
+`
+or Cigna (other than Endeavor Employee plan)
