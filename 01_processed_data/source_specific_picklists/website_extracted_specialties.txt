@@ -26,6 +26,7 @@ Behavioral Health Counselor
 Behavioral Medicine
 Behavioral disorders
 Bipolar Disorder
+Bipolar Disorder; Depression
 Bipolar Illness
 Cancer support
 Caregiving Support
